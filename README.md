@@ -54,10 +54,4 @@ Enterprise AI platform integrating 15+ providers (OpenAI, Anthropic, Google, AWS
 
 ---
 
-## 📊 GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltofan&show_icons=true&theme=dark)
-
----
-
 *Building the future of AI-accelerated software development, one MVP at a time.*
